@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "dataset"
+		},
+		{
+			"path": "face_detection_model"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "output"
+		}
+	]
+}
